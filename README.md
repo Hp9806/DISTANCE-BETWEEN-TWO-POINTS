@@ -25,7 +25,7 @@ print("{:.2f}".format(distance))
 
 
 ### OUTPUT:
-![OUTPUT]()
+![OUTPUT](https://github.com/Hp9806/DISTANCE-BETWEEN-TWO-POINTS/blob/main/Screenshot%20(33).png?raw=true)
 
 ### RESULT:
 Thus the distance between two points code is succesfully excecuted. 
